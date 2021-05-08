@@ -1,0 +1,17 @@
+.centerimage{
+   display: block;
+   margin-left: 60vh;
+   margin-right: auto;
+   margin-top: 4vh;
+   height: 40vh;
+}
+.anchorbutton{
+   color: white;
+   text-decoration: none;
+   cursor: pointer;
+}
+.anchorbutton:hover{
+   color: white;
+   text-decoration: none;
+   cursor: pointer;
+}
